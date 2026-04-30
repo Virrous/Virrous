@@ -6,14 +6,7 @@
 
 ---
 
-<!--
-  TO ADD YOUR PHOTO:
-  1. In this repo (Virrous/Virrous), click "Add file" → "Upload files"
-  2. Upload your photo and name it  photo.jpg  (or photo.png)
-  3. The <img> below is already pointing to that path — just upload and it appears!
--->
-
-<img align="right" src="https://github.com/Virrous/Virrous/raw/main/photo.jpg" width="220" alt="Ashes Pokhrel" />
+<!-- <img align="right" src="https://github.com/Virrous/Virrous/raw/main/photo.jpg" width="220" alt="Ashes Pokhrel" /> -->
 
 ### About Me
 
