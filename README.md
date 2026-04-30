@@ -6,15 +6,24 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif" />
+<!--
+  TO ADD YOUR PHOTO:
+  1. In this repo (Virrous/Virrous), click "Add file" → "Upload files"
+  2. Upload your photo and name it  photo.jpg  (or photo.png)
+  3. The <img> below is already pointing to that path — just upload and it appears!
+-->
+
+<img align="right" src="https://github.com/Virrous/Virrous/raw/main/photo.jpg" width="220" alt="Ashes Pokhrel" />
 
 ### About Me
 
-- 🔭 Currently building a **School ERP System** — academics, billing, accounting & admin modules
+- 👨‍💻 Full Stack Developer building real-world web applications
 - 🛠 I work across the full stack — Django on the backend, React & Next.js on the frontend
 - 📐 I care about clean UI, scalable architecture, and production-ready code
 - 🌱 Exploring **TypeScript**, REST API design, and multi-role auth systems
 - 📫 Reach me at **unseenshadow07@gmail.com**
+
+<br clear="right" />
 
 ---
 
@@ -34,18 +43,11 @@
 
 ---
 
-### What I'm Working On
-
-- A full-featured **School ERP** with academic management, fee billing, accounting (Nepal-compliant TDS/VAT), and multi-role dashboards
-- Clean, responsive UI systems without relying on component libraries
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashespokhrel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashespokhrel)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-unseenshadow07@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:unseenshadow07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact@ashespokhrel.com.np-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:unseenshadow07@gmail.com)
 
 ---
 
