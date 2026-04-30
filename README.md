@@ -17,11 +17,11 @@
 
 ### About Me
 
-- 👨‍💻 Full Stack Developer building real-world web applications
-- 🛠 I work across the full stack — Django on the backend, React & Next.js on the frontend
-- 📐 I care about clean UI, scalable architecture, and production-ready code
-- 🌱 Exploring **TypeScript**, REST API design, and multi-role auth systems
-- 📫 Reach me at **unseenshadow07@gmail.com**
+-  Full Stack Developer building real-world web applications
+-  I work across the full stack — Django on the backend, React & Next.js on the frontend
+-  I care about clean UI, scalable architecture, and production-ready code
+-  Exploring **TypeScript**, REST API design, and multi-role auth systems
+-  Know more about me at **ashespokhrel.com.np**
 
 <br clear="right" />
 
